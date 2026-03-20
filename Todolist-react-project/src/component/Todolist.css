@@ -1,0 +1,27 @@
+.todolist {
+	display: flex;
+	margin-top: 10px;
+	gap: 300px;
+	align-items: center;
+	background-color: rgb(32, 22, 22);
+	white-space: nowrap;
+	/* width:0px; */
+	border-radius: 10px;
+	justify-content: space-between;
+}
+.todolist-text {
+	margin-bottom: 0px;
+}
+.todolist-date-text {
+	margin-left: 10px;
+}
+.todolist-date {
+	margin-top: 3px;
+	font-size: 14px;
+	color: pink;
+}
+.delete-icon {
+	height: 30px;
+	margin-right: 10px;
+	cursor: pointer;
+}

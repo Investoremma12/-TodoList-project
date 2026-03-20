@@ -1,0 +1,18 @@
+.todolist-text-input {
+	width: 600px;
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+.todolist-add-button {
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	border: none;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+}
